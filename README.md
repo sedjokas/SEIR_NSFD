@@ -110,8 +110,7 @@ If you use this work or the simulation code, please cite:
 ```bibtex
 @article{kasongo2026fuzzy,
   author    = {Kasongo, Dany N. and Kasereka, Selain K. and Ilunga, Godwill W.K. and Kamwanga, Dauphin K.W.},
-  title     = {Numerical Methods for Fuzzy Ordinary Differential Equations: A Systematic Review
-               with Perspectives on Nonstandard Finite Difference Schemes},
+  title     = {Nonstandard Finite Difference Schemes for Uncertain Epidemic Dynamics: From Fuzzy ODEs to AI-Enhanced Discretisation},
   journal   = {Procedia Computer Science},
   year      = {2026},
   note      = {AI2M4RI Workshop, Athens, Greece, August 18--20, 2026}
