@@ -15,7 +15,6 @@ This paper presents a systematic literature review on numerical and analytical m
 
 ```
 .
-├── AI2M4RI_PROCS_Template.tex       # Main LaTeX source file
 ├── simulate_SEIR_NSFD.py            # Python simulation script (NSFD vs Euler)
 ├── AI2M4RI_PROCS_Template/
 │   ├── Prisma fuzzy study.png       # PRISMA flow chart (Section 2)
