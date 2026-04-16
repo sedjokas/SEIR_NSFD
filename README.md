@@ -17,7 +17,6 @@ This paper presents a systematic literature review on numerical and analytical m
 .
 ├── simulate_SEIR_NSFD.py            # Python simulation script (NSFD vs Euler)
 ├── AI2M4RI_PROCS_Template/
-│   ├── Prisma fuzzy study.png       # PRISMA flow chart (Section 2)
 │   ├── seir_deterministic.pdf       # Figure 2: Crisp NSFD vs Euler (h = 2.0)
 │   ├── seir_deterministic.png
 │   ├── seir_fuzzy.pdf               # Figure 3: Fuzzy alpha-cut envelopes
