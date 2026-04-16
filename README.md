@@ -1,4 +1,4 @@
-# Numerical Methods for Fuzzy ODEs: A Systematic Review with Perspectives on NSFD Schemes
+# Nonstandard Finite Difference Schemes for Uncertain Epidemic Dynamics: From Fuzzy ODEs to AI-Enhanced Discretisation
 
 **Paper submitted to:** *Procedia Computer Science* (Elsevier)  
 **Conference:** International Workshop on AI & Mathematical Methods for Real-world Impact (AI2M4RI), August 18–20, 2026, Athens, Greece
